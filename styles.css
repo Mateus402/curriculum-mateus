@@ -143,6 +143,10 @@ body {
    nav a {
       font-size: .7em;
    }
+
+   .content-info {
+      width: 80vw;
+   }
 }
  
 
