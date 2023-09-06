@@ -9,7 +9,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 24px;
+    font-size: 1.3em;
  }
 
  a {
@@ -36,13 +36,13 @@ body {
     text-decoration: none;
     color: #fff;
     font-weight: bold;
-    font-size: 18px;
+    font-size: 16px;
  }
 
  .section-informacao {
    background-image: url(img/visual-studio-svgrepo-com.svg);
    background-position: center;
-   background-size: 45%;
+   background-size: 40%;
    background-repeat: no-repeat;
    background-attachment: fixed;
  }
@@ -58,6 +58,8 @@ body {
  .content {
     margin-right: 20px;
  }
+
+ 
  
  .section {
     display: flex;
@@ -76,6 +78,7 @@ body {
 }
 
 .mateus {
+   height: 400px;
    border-radius: 20%;
    border: 1px solid;
 }
