@@ -1,6 +1,6 @@
 # curriculum mateus
 
-![Uploading image.png…]()
+![image](https://github.com/Mateus402/curriculum-mateus/assets/112894988/c91664fe-ec05-433a-af19-cd5c7bed387b)
 
 
 #Responsivo
