@@ -3,7 +3,7 @@
 ![image](https://github.com/Mateus402/curriculum-mateus/assets/112894988/c91664fe-ec05-433a-af19-cd5c7bed387b)
 
 
-#Responsivo
+# Responsivo
 
 ![image](https://github.com/Mateus402/curriculum-mateus/assets/112894988/b56ad5cf-e046-436a-a34b-16f738e19178)
 
