@@ -11,8 +11,7 @@
 
 # Currículo Online
 
-
-[Clique aqui para acessar o site]([https://curriculoonlinemateus.vercel.app/experiencia.html](https://curriculum-mateus.vercel.app/))
+[Clique aqui para acessar o site](https://curriculum-mateus.vercel.app)
 
 Desenvolvi um currículo online para aguçar minha criatividade e também colocar em prática alguns conhecimentos que obtive na matéria de Desenvolvimento Web do professor Cezar.
 
